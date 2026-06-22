@@ -52,4 +52,4 @@ Other          Git · Figma · Replit
 
 ---
 
-*always open to interesting problems, collabs, and opportunities that helps me grow* ✌️
+*always open to interesting problems, collabs, and opportunities that help me grow* ✌️
