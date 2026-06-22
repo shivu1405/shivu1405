@@ -1,4 +1,4 @@
-## hey, I'm Shivasri 
+## Heyy, I'm Shivasri 
 
 I'm a 2nd-year IT student at Saveetha Engineering College, Chennai — building AI tools by day, experimenting with prompt systems by night.
 
