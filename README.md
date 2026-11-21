@@ -1,6 +1,6 @@
 ## Heyy, I'm Shivasri 
 
-I'm a 2nd-year IT student at Saveetha Engineering College, Chennai — building AI tools by day, experimenting with prompt systems by night.
+I'm a 3rd-year IT student at Saveetha Engineering College, Chennai — building AI tools by day, experimenting with prompt systems by night.
 
 I care about making AI actually useful: not just cool demos, but things that solve real problems for real people. My work sits at the intersection of **AI engineering** and **full-stack building** — writing systems that think, and interfaces that don't hurt to look at.
 
