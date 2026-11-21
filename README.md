@@ -35,11 +35,6 @@ Other          Git · Figma · Replit
 
 ---
 
-### currently
-
-- 🔨 Building AI workflow systems under [Arcflow](https://shivu1405.github.io/Portfolio---AI/#) — prompt toolkits for startup founders
-- 📚 Prepping for ML Engineering roles — FastAPI, LangChain, RAG pipelines
-- 🏆 Competing in Flipkart GRiD 8.0 (AI Engineering track)
 
 ---
 
