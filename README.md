@@ -1,50 +1,92 @@
-## Heyy, I'm Shivasri 
+<h1 align="center">Hey, I'm Shivasri 👋</h1>
 
-I'm a 3rd-year IT student at Saveetha Engineering College, Chennai — building AI tools by day, experimenting with prompt systems by night.
+<p align="center">
+  IT student at Saveetha Engineering College, Chennai<br>
+  I build AI systems for real problems: agent security, crisis response, fraud detection, and recruiting.
+</p>
 
-I care about making AI actually useful: not just cool demos, but things that solve real problems for real people. My work sits at the intersection of **AI engineering** and **full-stack building** — writing systems that think, and interfaces that don't hurt to look at.
-
-Right now I'm deep into LLM-powered tooling, agentic workflows, and figuring out how to make AI genuinely helpful for indie founders and students.
-
----
-
-### what I build
-
-**AI Tools & Prompt Systems**
-- 🧠 [FirstGig](https://shivu1405.github.io/firstgig/) — AI-powered career starter kit for students
-- 📄 ResumeForge — student resume builder with live ATS scoring + Anthropic API integration
-- 🎨 Brand Kit Generator — instant brand identity tool for early-stage founders
-
-**Data & Analytics**
-- 📊 Student Performance Analysis — pandas + matplotlib, pattern detection across academic datasets
-- 🛒 Sales Analysis Project — SQLite + Python, found a 24% discounting problem dragging down profit margins
-- 💧 Python Water Usage Calculator — resource tracking with clean CLI output
+<p align="center">
+  <a href="https://linkedin.com/in/shivu1407"><img src="https://img.shields.io/badge/LinkedIn-shivu1407-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:shivasrini07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-### skills & tools
+## 🧭 What I'm into
 
-```
-Languages      Python · JavaScript · HTML/CSS
-AI/ML          Anthropic Claude API · LangChain · prompt engineering · RAG (learning)
-Frontend       React · Vite · Tailwind CSS · Framer Motion
-Backend        FastAPI (learning) · REST APIs
-Data           pandas · matplotlib · SQLite
-Other          Git · Figma · Replit
-```
+- 🛡️ Making AI agents safe to use (intent-aware security, prompt-injection defense)
+- 🤖 Agentic and multi-agent workflows with LLMs
+- 📊 Data products: ETL, analytics, dashboards, forecasting
+- ☁️ Cloud and AWS for real, deployable systems
+
+I like hackathons because they force me to ship something that works under pressure.
 
 ---
 
+## 🚀 Featured projects
+
+### 🛡️ [Hijack Shield](https://github.com/shivu1405/hijack-sheild)
+Intent-aware security layer for AI agents. It checks every proposed tool action against the user's original intent before it runs, using JSON intent contracts, data-flow checks, and NVIDIA Nemotron-based evaluation to block indirect prompt injection.
+`TypeScript` `NVIDIA Nemotron`
+
+### 🌡️ [HeatLine](https://github.com/shivu1405/Heatline)
+Heat-safety reporting for outdoor and informal workers, including those without smartphones. It offers self-report, phone-assisted, and organization reporting, a transparent 0 to 130 risk score, and email alerts for High and Extreme risk. *Built for the Amazon Environmental Hack.*
+`Python` `AWS DynamoDB` `AWS SNS`
+
+### 🚨 [ResQ AI](https://github.com/shivu1405/ResQ)
+Autonomous crisis coordination platform. A multi-agent system that analyzes incidents, resolves resource conflicts, and gives explainable allocation recommendations when resources are scarce.
+`TypeScript` `Multi-agent`
+
+### 📞 [Project Sentinel](https://github.com/shivu1405/Sentinal) · [Live demo](https://et-peach.vercel.app/)
+Predictive behavioral intelligence for fraud detection (e.g. "Digital Arrest" scams). It scores anonymized call metadata with a Behavioral Risk Index and maps threat networks, with no call recording.
+`TypeScript`
+
+### 💳 [Adaptive Recovery Agent](https://github.com/shivu1405/Adaptive-Recovery-Agent)
+Payment-failure recovery that diagnoses the failure, predicts customer intent, and picks personalized multi-channel recovery strategies. *Built for the Razorpay AI Buildathon 2026.*
+`Python`
+
+### 🧑‍💼 [Rivora](https://github.com/shivu1405/Rivora-AI-Candidate-Intelligence)
+Candidate ranking engine that scores 100,000 profiles on skills, experience, GitHub activity, and recruiter-response signals, with explainable reasoning and a Streamlit dashboard. *Built for the Redrob Data & AI Challenge 2026.*
+`Python` `Pandas` `Streamlit`
+
+### 🧠 [Pathway](https://github.com/shivu1405/Pathway)
+Interactive Streamlit demo of how recurrent latent-memory models fail when demonstrations don't cover every rule. *DataForge 2026 Pathway Track.*
+`Python` `Streamlit`
 
 ---
 
-### find me
+## 🧩 More projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivu1405.github.io%2Fai-black?style=flat-square&logo=github)](https://shivu1405.github.io/ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivu1407-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shivu1407)
-
-📍 Chennai &nbsp;·&nbsp; 📬 shivasrini07@gmail.com
+| Project | What it is |
+|---|---|
+| [ResumeForge](https://github.com/shivu1405/ResumeForge) | Client-side ATS resume analyzer with job-description matching, interview prep, and career roadmaps (React + TypeScript) |
+| [FirstGig](https://github.com/shivu1405/firstgig) ([live](https://shivu1405.github.io/firstgig/)) | AI cold-outreach generator for beginner freelancers (Claude API) |
+| [BrandKit](https://github.com/shivu1405/brandkit) ([live](https://shivu1405.github.io/brandkit/)) | AI design-system generator with CSS, JSON, and SCSS token export |
+| [E-commerce Analytics Platform](https://github.com/shivu1405/ecommerce-analytics-dashboard) | ETL on 100k+ rows into SQLite, cohort retention analysis, Holt-Winters revenue forecasting, Streamlit dashboard |
+| [Student Task Reminder](https://github.com/shivu1405/Student-task-reminder-automation) | Python automation for tasks and deadlines |
 
 ---
 
-*always open to interesting problems, collabs, and opportunities that help me grow* ✌️
+## 💻 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI:** Claude API · NVIDIA Nemotron · prompt engineering · multi-agent systems · neural networks (coursework)
+
+---
+
+## 🎓 Coursework
+
+AI search algorithms (A\*, minimax, alpha-beta), deep learning (CNNs, LSTMs, autoencoders, transfer learning), cryptography (AES, RSA, ECC), operating systems (Linux IPC), and cloud (AWS EC2, S3, IAM, load balancing).
+
+---
+
+<p align="center"><i>Open to interesting problems, collabs, and opportunities ✌️</i></p>
